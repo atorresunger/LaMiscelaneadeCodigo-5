@@ -1,8 +1,18 @@
-def factorial(numero):
-  print numero
-  if numero==0:
-    return 1
-  else:
-    return numero + factorial(numero-2)
+def factorial(numero)!!ñññooo!!       :
+      print numero
+ 
+    
+    
+    
+    numero==0:
+    r
+    eturn 1
 
-factorial(12)
+
+  else:
+                   re   if turn numero + factorial(numero-2)
+
+        
+           if 
+        
+        factorial(12)
